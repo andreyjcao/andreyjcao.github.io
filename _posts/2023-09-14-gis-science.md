@@ -14,15 +14,3 @@ The NASEM defines science as a “mode of inquiry that poses questions about the
 Before I took any geography classes at Middlebury, I understood GIS as a tool. Especially as a non-geography major, I found it difficult to describe GIS as something else to family and friends who were not familiar with it. After taking GEOG 0120 and going through the readings, my understanding of GIS has become both more nuanced and more muddled. Last semester, I worked on a project for a sociology class focused on how Middlebury’s ES department used a science-based curriculum to legitimize itself as a new department (including the use of geography classes). Through that project, I have a better understanding of how the classification of science can impact a discipline’s prestige and academic legitimacy. Especially in a liberal arts context, my understanding of GIS has changed towards it being an evolving scientific/interdisciplinary discipline, yet I have much to learn about it! I hope to expand my perspective around GIS through this course as we discuss and learn about how GIS is both influenced by and influences open science. 
 
 My interest in GIS aligns with the themes of “inherently expansive and growing” as well as it being “universally applicable.” (St. Martin and Wing, 341-342) I am drawn to interdisciplinary approaches to learning, so seeing what researchers of all different academic backgrounds using GIS has certainly inspired me to take this class. Particularly with this course focusing on open science, I would like to hear others’ points of view on how open science vs corporate products have influenced GIS as a discipline and/or a tool. From my GEOG 0120 course notes, I learned GIS as a tool and GIScience as the process of building said tool. I would like to know what others in the class (especially as most of you are geography majors) think about those statements. 
-
-
-Here is an image: ![logo](/assets/images/GitHub-Mark.png) 
-
-Link to [another post](/_posts/2010-01-08-post-chat.md)
-
-| table column 1 | table column 2 |
-| :----------: | :-----: | 
-| centered | not centered |
-| more content to show centering | not so much |
-
-| reject | accept |
