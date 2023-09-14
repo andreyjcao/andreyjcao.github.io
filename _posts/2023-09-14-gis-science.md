@@ -16,4 +16,11 @@ Before I took any geography classes at Middlebury, I understood GIS as a tool. E
 My interest in GIS aligns with the themes of “inherently expansive and growing” as well as it being “universally applicable.” (St. Martin and Wing, 341-342) I am drawn to interdisciplinary approaches to learning, so seeing what researchers of all different academic backgrounds using GIS has certainly inspired me to take this class. Particularly with this course focusing on open science, I would like to hear others’ points of view on how open science vs corporate products have influenced GIS as a discipline and/or a tool. From my GEOG 0120 course notes, I learned GIS as a tool and GIScience as the process of building said tool. I would like to know what others in the class (especially as most of you are geography majors) think about those statements. 
 
 
-Here is an image: ![logo](/assets/images/GitHub-Mark.png)
+Here is an image: ![logo](/assets/images/GitHub-Mark.png) 
+
+Link to [another post]()
+
+| table column 1 | table column 2 |
+| :----------: | :-----: | :---: |
+| centered | not centered |
+| more content to show centering | not so much |
