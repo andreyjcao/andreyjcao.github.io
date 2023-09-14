@@ -18,9 +18,11 @@ My interest in GIS aligns with the themes of “inherently expansive and growing
 
 Here is an image: ![logo](/assets/images/GitHub-Mark.png) 
 
-Link to [another post]()
+Link to [another post](/_posts/2010-01-08-post-chat.md)
 
 | table column 1 | table column 2 |
-| :----------: | :-----: | :---: |
+| :----------: | :-----: | 
 | centered | not centered |
 | more content to show centering | not so much |
+
+| reject | accept |
