@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Andy Cao"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hellooooo"
+  bio    : "I am a student at Middlebury College majoring in Enviromental Policy and Sociology"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
