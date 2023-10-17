@@ -17,7 +17,6 @@ title: Andy's Website
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio. 
-twitter_username: username
 github_username: andreyjcao
 minimal_mistakes_skin: default
 search: true
@@ -63,16 +62,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/andreyjcao/"
 footer:
   links:
     - label: "Twitter"
@@ -80,7 +72,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/andreyjcao/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
