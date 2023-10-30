@@ -20,4 +20,5 @@ Particularly, small errors in data sets (such as the missing data) can be tediou
 With the addition of various statistical tests and map visualizations, the Chakraborty study has better reproducibility and has the potential to be applied to future outbreaks as well as adjust to demographic changes over time. 
 
 Check out the reproduced study [here](https://andreyjcao.github.io/RPr-Chakraborty-2021/ )
+
 Check out the Github repository for the reproduction [here](https://github.com/andreyjcao/RPr-Chakraborty-2021)
