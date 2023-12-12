@@ -22,3 +22,8 @@ With the addition of various statistical tests and map visualizations, the Chakr
 Check out the reproduced study [here](https://andreyjcao.github.io/RPr-Chakraborty-2021/ )
 
 Check out the Github repository for the reproduction [here](https://github.com/andreyjcao/RPr-Chakraborty-2021)
+
+
+**References**
+
+Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. *Disability and Health Journal* 14 (1):101007. [DOI: 10.1016/j.dhjo.2020.101007.](https://doi.org/10.1016/j.dhjo.2020.101007)

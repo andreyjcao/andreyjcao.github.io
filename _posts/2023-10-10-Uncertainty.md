@@ -15,3 +15,10 @@ Though I do not have a lot of experience with geographic research beyond this cl
 As mentioned in the past week discussions, increasing transparency can improve how much uncertainty there is within a study as well as the reproducibility of that study. Researchers publishing studies, especially studies that tout their reproducibility, should make sure to at least address and acknowledge the uncertainty within their studies. Not only does this benefit future researchers that may learn from one’s study, but also makes one reflect on the data and representations they are using.
 
 As mentioned in the Tullis and Kar article (2021), some ways geographers can improve provenance, location privacy, and data quality include methods such as including a range of stakeholders in the organization of data as well as addressing when bias is present. Acknowledgement of uncertainty should be a crucial step in the process of improving reproducibility as well as clarity of a study.
+
+
+**References**
+
+Longley, P. A., M. F. Goodchild, D. J. Maguire, and D. W. Rhind. 2008. *Geographical Information Systems and Science* 2nd ed. Chichester: Wiley.
+
+Tullis, J. A., and B. Kar. 2021. Where Is the Provenance? Ethical Replicability and Reproducibility in GIScience and Its Critical Applications. *Annals of the American Association of Geographers* 111 (5):1318–1328. [DOI:10.1080/24694452.2020.1806029](https://doi.org/10.1080/24694452.2020.1806029)

@@ -22,3 +22,9 @@ Especially in a culture constantly focused on reputation, academia can foster sp
 Though open source GIS can help researchers to easily share knowledge/research/data, it also greatly emphasizes reputation through a “gift economy.” (Rey, 195) 
 The ability for one to use open source resources without attributing to the original authors could create an imbalance of incentives for those involved in competitive academia. 
 
+
+**References**
+
+NASEM (National Academies of Sciences, Engineering, and Medicine). 2019. *Reproducibility and Replicability in Science*. Washington, D.C.: National Academies Press. [DOI:10.17226/25303](https://nap.nationalacademies.org/catalog/25303/reproducibility-and-replicability-in-science)
+
+Rey, S. J. 2009. Show me the code: Spatial analysis and open source. *Journal of Geographical Systems* 11 (2):191–207. [DOI: 10.1007/s10109-009-0086-8](https://link.springer.com/article/10.1007/s10109-009-0086-8)

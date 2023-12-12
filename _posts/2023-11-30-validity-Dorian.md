@@ -17,3 +17,8 @@ The replication should also emphasize the importance of normalization, as the he
 However, the broad impact of such a replication may be limited as X imposes more restrictions and obstacles to obtaining user data for research. 
 After almost a semester of learning about reproducibility and replicability in a geography context, I recognize the role ever-changing technological advances (whether an update or a new restriction) can have on a study’s relevance and validity. 
 Additionally, as some governments/emergency-based alert systems [grapple with X’s new platform and business practices](https://www.reuters.com/world/europe/twitter-not-suited-emergency-communications-dutch-say-after-storm-2023-07-05/), the future of X as one of the go-to platforms for live alerts for/reactions to natural disaster events remains uncertain.
+
+
+**References**
+
+Schmitt, R. R. 1978. Threats to validity involving geographic space. *Socio-Economic Planning Sciences*, 12(4), 191–195. (https://doi.org/10.1016/0038-0121(78)90044-7)[https://doi.org/10.1016/0038-0121(78)90044-7]
