@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Andy Cao"
-  avatar : "/assets/images/photo.jpg"
+  avatar : "/assets/images/photo_square.jpg"
   bio    : "I am a student at Middlebury College majoring in enviromental policy and sociology"
   links:
     - label: "Website"
@@ -68,8 +68,13 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "/assets/images/LinkedIn_logo_initials.png"
       url: "https://github.com/andreyjcao/"
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andreycao/"
 
 defaults:
   # _posts
@@ -79,7 +84,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
       related: true
