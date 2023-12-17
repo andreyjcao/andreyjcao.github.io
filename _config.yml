@@ -71,7 +71,7 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "/assets/images/LinkedIn_logo_initials.png"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/andreyjcao/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
