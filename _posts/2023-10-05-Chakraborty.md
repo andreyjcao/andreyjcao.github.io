@@ -1,5 +1,5 @@
 ---
-title: "Reproducing Chakraborty (2021) Disability and COVID-19"
+title: "Disability and COVID-19: Reproducing Chakraborty (2021)"
 last_modified_at: 2023-10-05T16:20:02-05:00
 categories:
   - Study
